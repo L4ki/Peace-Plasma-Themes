@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.0"
+   width="80"
+   height="40"
+   id="svg2"
+   sodipodi:docname="branding.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="7.69375"
+     inkscape:cx="35.548335"
+     inkscape:cy="21.316003"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1120" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <g
+     id="brilliant">
+    <rect
+       width="80"
+       height="40"
+       x="0"
+       y="0"
+       id="rect3311"
+       style="opacity:0;fill:#a1b4b4;fill-opacity:0;stroke:none;stroke-width:1.63116" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:10.8981px;line-height:1.25;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed,  Semi-Bold Italic Condensed';fill:#7895ba;fill-opacity:1;stroke-width:0.272454"
+       x="13.981168"
+       y="16.320219"
+       id="text46923"
+       transform="scale(1.0115192,0.98861199)"><tspan
+         sodipodi:role="line"
+         id="tspan46921"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:condensed;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed,  Semi-Bold Italic Condensed';fill:#7895ba;fill-opacity:1;stroke-width:0.272454"
+         x="13.981168"
+         y="16.320219">Plasma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.3504px;line-height:1.25;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed,  Bold Condensed';fill:#7895ba;fill-opacity:1;stroke-width:1.30129"
+       x="13.003242"
+       y="31.962816"
+       id="text26879"
+       transform="scale(1.0080564,0.99200799)"><tspan
+         sodipodi:role="line"
+         id="tspan26877"
+         x="13.003242"
+         y="31.962816"
+         style="fill:#7895ba;fill-opacity:1;stroke-width:1.30129">Peace</tspan></text>
+    <path
+       d="m 59.561161,8.9582104 v 6.7984006 l 4.85342,4.806607 c 0.991322,-1.227283 1.585423,-2.78273 1.585423,-4.476375 0,-3.692417 -2.817294,-6.7318146 -6.438946,-7.1283476 z"
+       id="path70"
+       style="fill:#7895ba;fill-opacity:1;stroke-width:0.0286051" />
+    <path
+       d="m 57.951223,8.9582104 c -3.621962,0.396651 -6.438946,3.4362156 -6.438946,7.1283476 0,1.693763 0.594101,3.249178 1.585423,4.476376 l 4.85342,-4.806607 z"
+       id="path72"
+       style="fill:#7895ba;fill-opacity:1;stroke-width:0.0286051" />
+    <path
+       d="m 57.951223,18.011013 -3.715284,3.679315 c 1.041978,0.825421 2.31845,1.371953 3.715284,1.524961 z"
+       id="path74"
+       style="fill:#7895ba;fill-opacity:1;stroke-width:0.0286051" />
+    <path
+       d="m 59.561161,18.011013 v 5.204276 c 1.396928,-0.153008 2.673296,-0.69954 3.715274,-1.524961 z"
+       id="path76"
+       style="fill:#7895ba;fill-opacity:1;stroke-width:0.0286051" />
+  </g>
+</svg>
