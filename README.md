@@ -14,6 +14,8 @@ https://www.pling.com/p/1770349
 
 ![Screenshot_20220418_120544](https://user-images.githubusercontent.com/45247573/164518718-a330da97-b7ab-42a0-b888-f4cd3771147d.png)
 
+
+
 Changelog: 29.04.2022.
 ----------------------
 
