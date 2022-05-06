@@ -23,3 +23,11 @@ Plasma Theme
 ------------
 
 Added icon: slc.svg
+
+Changelog: 06.05.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: tasks.svg
