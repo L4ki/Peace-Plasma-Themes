@@ -31,3 +31,11 @@ Plasma Theme
 ------------
 
 Update widget: tasks.svg
+
+Changelog: 13.05.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Added icon: mobile.svg
