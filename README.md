@@ -39,3 +39,11 @@ Plasma Theme
 ------------
 
 Added icon: mobile.svg
+
+Changelog: 20.05.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Correction widget: tasks.svg
