@@ -47,3 +47,11 @@ Plasma Theme
 ------------
 
 Correction widget: tasks.svg
+
+Changelog: 27.05.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: panel-background.svg
