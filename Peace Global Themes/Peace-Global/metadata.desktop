@@ -1,15 +1,13 @@
 [Desktop Entry]
-Name=Peace-Plasma
-Comment=Peace Dark Plasma Theme
+Comment=Peace Global Theme
+Name=Peace-Global
 X-KDE-PluginInfo-Author=l4k1
-X-KDE-PluginInfo-Email=lak1987@gmail.com
-X-KDE-PluginInfo-Name=Peace-Plasma
-X-KDE-PluginInfo-Version=1.4
-X-KDE-PluginInfo-Website=
-X-KDE-PluginInfo-Category=Plasma Theme
-X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
-X-Plasma-API=5.0
-
-[AdaptiveTransparency]
-enabled=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Peace-Global
+X-KDE-PluginInfo-Version=1.5
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1770336,kns://colorschemes.knsrc/api.kde-look.org/1770334,kns://plasma-themes.knsrc/api.kde-look.org/1770349,kns://icons.knsrc/api.kde-look.org/1633309,kns://icons.knsrc/api.kde-look.org/1633305,kns://aurorae.knsrc/api.kde-look.org/1770333,kns://aurorae.knsrc/api.kde-look.org/1770332,kns://wallpaper.knsrc/api.kde-look.org/1770326,kns://sddmtheme.knsrc/api.kde-look.org/1770331
