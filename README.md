@@ -55,3 +55,11 @@ Plasma Theme
 ------------
 
 Update widget: panel-background.svg
+
+Changelog: 03.06.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: busywidget.svg
