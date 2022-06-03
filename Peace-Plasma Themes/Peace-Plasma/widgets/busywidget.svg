@@ -30,7 +30,7 @@
   <sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -38,19 +38,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="14.71875"
-     inkscape:cx="11.244161"
-     inkscape:cy="11.346072"
+     inkscape:zoom="10.407728"
+     inkscape:cx="5.4766997"
+     inkscape:cy="19.744943"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g3167"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="pt"
-     inkscape:lockguides="true">
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid2810" />
