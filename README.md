@@ -63,3 +63,11 @@ Plasma Theme
 ------------
 
 Update widget: busywidget.svg
+
+Changelog: 10.06.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: arrows.svg
