@@ -71,3 +71,11 @@ Plasma Theme
 ------------
 
 Update widget: arrows.svg
+
+Changelog: 17.06.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update icon: video.svg
