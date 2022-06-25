@@ -79,3 +79,13 @@ Plasma Theme
 ------------
 
 Update icon: video.svg
+
+Changelog: 25.06.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: slider.svg
+
+Update icon: update.svg
