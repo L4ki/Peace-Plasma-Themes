@@ -89,3 +89,13 @@ Plasma Theme
 Update widget: slider.svg
 
 Update icon: update.svg
+
+Changelog: 02.07.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: viewitem.svg
+
+
