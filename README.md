@@ -98,4 +98,12 @@ Plasma Theme
 
 Update widget: viewitem.svg
 
+Changelog: 14.07.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update icon: redshift.svg
+
 
