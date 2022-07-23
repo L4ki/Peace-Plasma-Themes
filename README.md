@@ -106,4 +106,12 @@ Plasma Theme
 
 Update icon: redshift.svg
 
+Changelog: 23.07.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: notes.svg
+
 
