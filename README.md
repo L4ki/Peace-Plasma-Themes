@@ -114,4 +114,9 @@ Plasma Theme
 
 Update widget: notes.svg
 
+Peace-Aurorae
+--------------
+
+Update: decoration.svg
+
 
