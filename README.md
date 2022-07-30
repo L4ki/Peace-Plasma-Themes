@@ -119,4 +119,12 @@ Peace-Aurorae
 
 Update: decoration.svg
 
+Changelog: 30.07.2022.
+----------------------
+
+Plasma Theme
+------------
+
+Update widget: action-overlays.svg
+
 
