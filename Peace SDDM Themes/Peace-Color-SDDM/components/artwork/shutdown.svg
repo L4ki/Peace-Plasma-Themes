@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="136.53334"
+   height="136.53334"
+   id="svg5048"
+   version="1.1"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="shutdown.svg"
+   viewBox="0 0 128 128"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs5050">
+    <filter
+       id="filter4004-4"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4006-0"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4008-2"
+         flood-color="rgb(250,247,247)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4010-1"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4012-3"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <style
+       id="current-color-scheme"
+       type="text/css">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.12941176"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7662465"
+     inkscape:cx="60.551364"
+     inkscape:cy="56.574857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#b2b2b2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3001"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#0101ff"
+       opacity="0.01960784"
+       empcolor="#0000ff"
+       empopacity="0.03921569"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5053">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.129729,-913.75296)">
+    <path
+       id="Power-4"
+       class="st0"
+       d="m 77.994782,959.31546 c 0,4.125 -3.53515,7.5 -7.85585,7.5 h -7.8558 v -45.00003 h 15.71165 z m 14.140501,-7.68751 c 8.052197,6.18751 13.354897,15.75001 13.354897,26.4375 0,18.5624 -15.908047,33.74995 -35.351248,33.74995 -19.44314,0 -35.351198,-15.18755 -35.351198,-33.74995 0,-10.68749 5.302704,-20.24999 13.354901,-26.4375 l -12.176501,-14.625 c -8.837797,6.75002 -15.515295,16.12495 -18.657599,26.43751 -3.142347,10.5 -2.945947,21.56249 0.981952,31.87499 3.731551,10.31235 10.801796,19.12495 20.032399,25.49995 9.230549,6.375 20.425146,9.75 31.816046,9.75 11.39095,0 22.585501,-3.375 31.816098,-9.75 9.2306,-6.375 16.30085,-15.1876 20.03239,-25.49995 3.7315,-10.3125 4.12425,-21.37499 0.78556,-31.87499 -3.33876,-10.50003 -9.62341,-19.68749 -18.6576,-26.43751 z"
+       style="fill:#bf616a;fill-opacity:0.97227752;stroke-width:1.91898" />
+    <path
+       id="Power-s-8"
+       class="st1"
+       d="m 66.211032,959.31546 c 0,2.0625 1.76755,3.75 3.9279,3.75 v 7.5 c -6.48105,0 -11.7837,-5.0625 -11.7837,-11.25 v -30.00003 c 0,-6.18746 5.30265,-11.24997 11.7837,-11.24997 6.4811,0 11.78375,5.06251 11.78375,11.24997 v 18.75002 h -7.8558 v -18.75002 c 0,-2.06245 -1.7676,-3.74997 -3.92795,-3.74997 -2.16035,0 -3.9279,1.68752 -3.9279,3.74997 z m 58.918688,26.24999 v -7.5 h -7.85579 v 7.5 c 0,24.93745 -21.014347,44.99995 -47.134998,44.99995 v 7.5 c 30.441298,0 54.990788,-23.4376 54.990788,-52.49995 z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.91898" />
+  </g>
+</svg>

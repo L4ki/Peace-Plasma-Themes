@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="136.53334"
+   height="136.53334"
+   id="svg5048"
+   version="1.1"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="restart.svg"
+   viewBox="0 0 128 128"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs5050">
+    <filter
+       id="filter4004-4"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4006-0"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4008-2"
+         flood-color="rgb(250,247,247)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4010-1"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4012-3"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter4004-44"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4006-8"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4008-0"
+         flood-color="rgb(250,247,247)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4010-5"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4012-6"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter4004-4-4"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4006-0-1"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4008-2-5"
+         flood-color="rgb(250,247,247)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4010-1-5"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4012-3-5"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <style
+       id="current-color-scheme"
+       type="text/css">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b4b4b4"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.10588235"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="59.375"
+     inkscape:cy="69.125"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#b4b4b4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#0000ff"
+       opacity="0.01960784"
+       empcolor="#0000ff"
+       empopacity="0.03921569"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5053">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.1297004,-913.75296)">
+    <path
+       id="Refresh"
+       class="st0"
+       d="m 106.97644,1018.8019 c 10.29319,-7.4273 17.79876,-17.8656 21.22981,-29.50883 l 0.42881,0.20054 c 0.85766,-3.41259 1.50093,-7.62808 1.71539,-11.04061 l -7.87673,-0.14987 -0.0864,-0.0267 -15.51536,0.0779 c -0.29974,14.73795 -15.504593,32.04427 -36.350817,32.01867 -21.229759,-0.027 -38.599659,-16.26016 -38.599659,-36.13319 0,-19.87303 17.3699,-36.13278 38.599659,-36.13278 8.363229,0 16.297609,2.6096 22.730896,6.82508 l -18.442076,17.26344 h 47.177357 v -44.16224 l -13.50994,12.64646 c -8.577706,-6.62433 -19.085408,-10.83982 -30.021967,-12.24496 -13.29549,-1.60595 -26.59092,1.00364 -37.956339,7.22653 -11.36548,6.22287 -20.372029,15.65754 -25.518629,27.09955 -5.1466502,11.44205 -6.0044201,24.08851 -2.57338,36.13276 3.4311,12.04465 10.936619,22.48305 21.444269,30.11105 10.5077,7.4273 23.374269,11.442 36.669699,11.442 13.295429,0 26.161945,-4.0147 36.455247,-11.6427 z"
+       style="fill:#a3be8c;fill-opacity:1;stroke-width:2.07477"
+       sodipodi:nodetypes="cccccccsssccccccssscsc" />
+    <path
+       id="Refresh-s"
+       class="st1"
+       d="m 78.026653,938.7072 c 5.575509,1.0037 10.72216,3.21179 15.225437,6.22288 l -6.218828,5.82139 c -3.21664,-2.0074 -6.86214,-3.41254 -10.722099,-4.01479 -5.78997,-1.00365 -11.7944,-0.6022 -17.36985,1.60589 -5.57551,2.20815 -10.078839,5.82143 -13.509889,10.43836 -3.21664,4.61698 -5.14665,10.03692 -5.14665,15.65755 h -8.57769 c 0,-7.22658 2.35886,-14.05166 6.43323,-20.07373 4.07447,-6.02218 10.2933,-10.63911 17.369849,-13.2487 7.29111,-3.01104 15.01103,-3.61329 22.51649,-2.40885 z m 28.735327,75.4778 c -4.71773,5.2191 -9.986255,9.2339 -16.205029,12.0442 -6.218829,2.8103 -13.388068,4.2155 -20.035758,4.2155 v 7.5274 c 7.93438,0 15.868749,-1.1038 23.159758,-4.5163 7.291069,-3.2118 13.938809,-8.0296 19.514269,-14.0517 5.57551,-6.0221 9.86438,-13.0479 12.86657,-20.87711 1.28668,-3.21179 4.07777,-12.46939 4.23468,-20.1126 l -7.78621,-0.17014 c 0.0752,6.02303 -1.74414,12.78107 -3.55457,17.47219 -2.34532,6.87246 -7.47597,13.24916 -12.19371,18.46836 z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:2.07477"
+       sodipodi:nodetypes="ccccscccsccsscccsccccss" />
+  </g>
+</svg>
