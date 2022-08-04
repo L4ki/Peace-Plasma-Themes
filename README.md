@@ -1,4 +1,4 @@
-# Peace-Plasma-Themes
+# Peace-Plasma-Themes and Peace-Color-Plasma Themes
 Peace Themes For Plasma Desktop 
 
 https://www.pling.com/p/1770349
