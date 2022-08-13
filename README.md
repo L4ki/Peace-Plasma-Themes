@@ -143,4 +143,12 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update widget: scrollbar.svg
 
+Changelog: 13.08.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Update widget: listitem.svg
+
 
