@@ -154,6 +154,11 @@ Update widget: listitem.svg
 Changelog: 18.08.2022.
 ----------------------
 
+Aurorae Color Themes
+--------------------
+
+Update: decoration.svg
+
 Plasma Theme "Peace-Color-Plasma"
 --------------------------
 
