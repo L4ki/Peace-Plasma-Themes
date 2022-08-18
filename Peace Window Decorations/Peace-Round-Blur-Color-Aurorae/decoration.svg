@@ -5,7 +5,7 @@
    version="1.1"
    id="svg111"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -14,9 +14,9 @@
   <style
      id="current-color-scheme"
      type="text/css">
-.Colorscheme-Background { 
-    color:#192432;
+.ColorScheme-Background { 
     stop-color:#192432;
+    color:#192432;
 }
 </style>
   <sodipodi:namedview
@@ -31,10 +31,10 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.4737585"
-     inkscape:cx="253.09439"
+     inkscape:cx="254.11219"
      inkscape:cy="53.943709"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -451,7 +451,7 @@
          height="73.239998"
          x="28.380281"
          y="28.4"
-         class="ColorScheme-Background  Colorscheme-Background" />
+         class="ColorScheme-Background" />
     </g>
   </g>
   <g
@@ -466,7 +466,7 @@
        d="m 28.400011,6.4 v 22 H 6.4000104 c 0,-20.0000004 2.0000042,-22 22.0000006,-22 z"
        id="path36"
        sodipodi:nodetypes="cccc"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
     <path
        id="path1039-56"
        style="fill:url(#linearGradient3345);fill-opacity:1;stroke-width:2.2;stop-color:#eff0f1"
@@ -486,7 +486,7 @@
        x="28.380291"
        y="6.3999991"
        id="rect32"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        style="fill:#547fbf;fill-opacity:0.3019608;stroke:none;stroke-width:1.98894;stroke-miterlimit:4;stroke-dasharray:none"
@@ -510,16 +510,16 @@
        y="-123.6"
        transform="scale(1,-1)"
        id="rect45"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="stroke-dasharray:none;stroke-miterlimit:4;stroke-width:2.68323;stroke:none;fill-opacity:0.01;fill:#192432"
+       style="stroke-dasharray:none;stroke-miterlimit:4;stroke-width:2.68323;stroke:none;fill-opacity:0.01;fill:currentColor;"
        id="rect985-5-2-5"
        width="1.8200001"
        height="73.239998"
        x="-123.62"
        y="-101.62"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
   </g>
   <g
      id="decoration-topright">
@@ -533,7 +533,7 @@
        d="m 101.62002,6.4 v 21.995498 h 22 c 0,-19.995498 -2,-21.995498 -22,-21.995498 z"
        id="path27-1-5"
        sodipodi:nodetypes="cccc"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
     <path
        id="path1039-56-3"
        style="fill:url(#linearGradient5110);fill-opacity:1;stroke-width:2.2;stop-color:#eff0f1"
@@ -554,16 +554,16 @@
        y="-28.400015"
        transform="rotate(90)"
        id="rect54"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
     <rect
        transform="scale(1,-1)"
-       style="stroke-dasharray:none;stroke-miterlimit:4;stroke-width:2.68323;stroke:none;fill-opacity:0.01;fill:#192432"
+       style="stroke-dasharray:none;stroke-miterlimit:4;stroke-width:2.68323;stroke:none;fill-opacity:0.01;fill:currentColor;"
        id="rect985-5-2-6"
        width="1.8200001"
        height="73.239998"
        x="6.4000001"
        y="-101.64"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
   </g>
   <g
      id="decoration-bottomleft">
@@ -572,7 +572,7 @@
        d="m 28.400011,123.6 v -22 h -22 c 0,20 2,22 22,22 z"
        id="path49"
        sodipodi:nodetypes="cccc"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
     <path
        id="shadow-topleft-36"
        style="opacity:0.75;fill:url(#radialGradient987-4-6);fill-opacity:1;stroke-width:0.915171"
@@ -580,10 +580,10 @@
        sodipodi:nodetypes="cccccc" />
     <path
        id="path1039-56-7"
-       style="stroke-width:2.2;fill-opacity:0.0053641;fill:#192432"
+       style="stroke-width:2.2;fill-opacity:0.0053641;fill:currentColor;"
        d="m 6.4,101.6 c 0,20.00005 2,22.00005 22,22 l -6e-5,-1.83333 C 9.4,121.60005 8.4,120.60005 8.23306,101.60005 Z"
        sodipodi:nodetypes="ccccc"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
   </g>
   <g
      id="decoration-bottomright">
@@ -592,7 +592,7 @@
        d="m 101.62001,123.6 v -22 h 22 c 0,20 -2,22 -22,22 z"
        id="path40"
        sodipodi:nodetypes="cccc"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
     <path
        id="shadow-topleft-1-8"
        style="opacity:0.75;fill:url(#radialGradient987-2-9-2);fill-opacity:1;stroke-width:0.915171"
@@ -600,10 +600,10 @@
        sodipodi:nodetypes="cccccc" />
     <path
        id="path1039-56-3-5-3"
-       style="stroke-width:2.2;fill-opacity:0.01;fill:#192432"
+       style="stroke-width:2.2;fill-opacity:0.01;fill:currentColor;"
        d="m 101.6,123.6 c 20.00005,0 22.00005,-2 22,-22 l -1.83333,5e-5 C 121.60005,120.6 120.60005,121.6 101.60005,121.76694 Z"
        sodipodi:nodetypes="ccccc"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
   </g>
   <g
      id="decoration-right">
@@ -619,16 +619,16 @@
        y="-123.61972"
        transform="rotate(90)"
        id="rect59"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
     <rect
        transform="scale(1,-1)"
-       style="stroke-dasharray:none;stroke-miterlimit:4;stroke-width:2.68323;stroke:none;fill-opacity:0.01;fill:#192432"
+       style="stroke-dasharray:none;stroke-miterlimit:4;stroke-width:2.68323;stroke:none;fill-opacity:0.01;fill:currentColor;"
        id="rect985-5-2-6-2"
        width="1.8200001"
        height="73.239998"
        x="121.78"
        y="-101.64"
-       class="ColorScheme-Background  Colorscheme-Background" />
+       class="ColorScheme-Background" />
   </g>
   <g
      id="mask-center"
