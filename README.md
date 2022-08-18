@@ -151,4 +151,12 @@ Plasma Theme "Peace-Plasma"
 
 Update widget: listitem.svg
 
+Changelog: 18.08.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------
+
+Update widget: listitem.svg
+
 
