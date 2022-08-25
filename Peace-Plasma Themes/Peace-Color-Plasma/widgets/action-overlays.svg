@@ -5,7 +5,7 @@
    height="70"
    width="80.000008"
    sodipodi:docname="action-overlays.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,25 +28,23 @@
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="true"
+     inkscape:pagecheckerboard="false"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="1.75"
-     inkscape:cy="64.125"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="48.171649"
+     inkscape:cy="27.400388"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:showpageshadow="true"
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid2841"
-       originx="-74.998386"
-       originy="20.036952" />
+       id="grid304" />
   </sodipodi:namedview>
   <defs
      id="defs7231">
