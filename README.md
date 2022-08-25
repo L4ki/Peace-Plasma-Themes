@@ -172,4 +172,12 @@ Plasma Theme "Peace-Plasma"
 
 Update widget: button.svg
 
+Changelog: 25.08.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+-------------------------------
+
+Update widget: action-overlays.svg
+
 
