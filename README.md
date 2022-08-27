@@ -180,4 +180,12 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update widget: action-overlays.svg
 
+Changelog: 27.08.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Update widget: configuration-icons.svg
+
 
