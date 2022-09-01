@@ -189,3 +189,12 @@ Plasma Theme "Peace-Plasma"
 Update widget: configuration-icons.svg
 
 
+Changelog: 01.09.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+-------------------------------
+
+Update widget: tasks.svg
+
+
