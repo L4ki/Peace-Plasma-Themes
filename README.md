@@ -197,4 +197,12 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update widget: tasks.svg
 
+Changelog: 03.09.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Update widget: pager.svg
+
 
