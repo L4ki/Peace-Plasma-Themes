@@ -5,7 +5,7 @@
    height="50"
    id="svg11324"
    sodipodi:docname="pager.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,20 +23,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1002"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="7.9999997"
-     inkscape:cx="31.250001"
-     inkscape:cy="34.812502"
+     inkscape:zoom="11.313708"
+     inkscape:cx="19.666408"
+     inkscape:cy="21.566758"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11324"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:showpageshadow="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid864" />
@@ -218,7 +219,7 @@
        x="26.974386"
        y="8.0435877"
        id="rect6882"
-       style="opacity:1;fill:#354a62;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#39506a;fill-opacity:1;stroke:none" />
   </g>
   <rect
      width="5"
