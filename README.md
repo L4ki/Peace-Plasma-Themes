@@ -205,4 +205,12 @@ Plasma Theme "Peace-Plasma"
 
 Update widget: pager.svg
 
+Changelog: 08.09.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+-------------------------------
+
+Update widget: arrows.svg
+
 
