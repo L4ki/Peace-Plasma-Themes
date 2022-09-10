@@ -213,4 +213,12 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update widget: arrows.svg
 
+Changelog: 10.09.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Update widget: background.svg
+
 
