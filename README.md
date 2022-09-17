@@ -229,4 +229,12 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update icon: software.svg
 
+Changelog: 17.09.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Added widget: translucentbackground.svg
+
 
