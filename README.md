@@ -237,4 +237,12 @@ Plasma Theme "Peace-Plasma"
 
 Added widget: translucentbackground.svg
 
+Changelog: 22.09.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+-------------------------------
+
+Update widget: scrollbar.svg
+
 
