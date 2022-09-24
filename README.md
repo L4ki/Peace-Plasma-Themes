@@ -253,4 +253,9 @@ Plasma Theme "Peace-Plasma"
 
 Added icon: list.svg
 
+GTK-Theme
+----------
+
+Update: assets, gtk.css
+
 
