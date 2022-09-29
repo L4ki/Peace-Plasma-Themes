@@ -258,4 +258,12 @@ GTK-Theme
 
 Update: assets, gtk.css
 
+Changelog: 29.09.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+-------------------------------
+
+Update widget: button.svg
+
 
