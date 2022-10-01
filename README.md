@@ -262,8 +262,13 @@ Changelog: 29.09.2022.
 ----------------------
 
 Plasma Theme "Peace-Color-Plasma"
--------------------------------
 
-Update widget: button.svg
+Changelog: 01.10.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
 
