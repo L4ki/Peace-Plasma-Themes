@@ -291,3 +291,11 @@ Plasma Theme "Peace-Plasma"
 
 Update widget: checkmarks.svg
 
+Changelog: 13.10.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added widget: analog_meter.svg
+
