@@ -299,3 +299,12 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added widget: analog_meter.svg
 
+
+Changelog: 15.10.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Added widget: radiobutton.svg
+
