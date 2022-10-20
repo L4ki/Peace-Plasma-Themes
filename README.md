@@ -308,3 +308,11 @@ Plasma Theme "Peace-Plasma"
 
 Added widget: radiobutton.svg
 
+Changelog: 20.10.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: scrollbar.svg
+
