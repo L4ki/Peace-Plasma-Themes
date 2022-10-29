@@ -333,3 +333,11 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update widget: action-overlays.svg
 
+Changelog: 29.10.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Added widget: clock.svg
+
