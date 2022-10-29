@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    width="234.66667"
    height="234.66667"
    sodipodi:docname="clock.svg"
@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1015"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -33,7 +33,7 @@
      id="base"
      inkscape:zoom="1.4142136"
      inkscape:cx="118.79394"
-     inkscape:cy="124.09724"
+     inkscape:cy="124.80434"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -52,22 +52,11 @@
      inkscape:document-rotation="0"
      inkscape:showpageshadow="true"
      inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
-       empspacing="5"
-       enabled="true"
-       visible="true"
-       id="grid5592"
        type="xygrid"
-       snapvisiblegridlinesonly="true"
-       color="#0000ff"
-       opacity="0.03921569"
-       empcolor="#0000ff"
-       empopacity="0.07843137"
-       originx="0"
-       originy="0"
-       spacingx="1"
-       spacingy="1" />
+       id="grid1541" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -318,7 +307,7 @@
     <circle
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       style="opacity:0.8;fill:#192432;fill-opacity:1;stroke:none"
+       style="opacity:0.8;fill:#192432;fill-opacity:1;stroke:none;stroke-width:0.93749998;stroke-dasharray:none"
        id="path5099"
        cx="110"
        cy="110"
@@ -364,7 +353,7 @@
         <path
            id="path4453"
            d="m 144.26567,225.15035 -2.0313,3.53125 c 0.2926,0.16682 0.5847,0.3298 0.875,0.5 l 2.0313,-3.53125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:0.93749998;marker:none;enable-background:accumulate;stroke-dasharray:none"
            inkscape:connector-curvature="0" />
         <path
            id="path4451"
@@ -651,11 +640,11 @@
              height="2.7090182"
              width="20"
              id="rect5442"
-             style="fill:#fcfcfc;fill-opacity:1;stroke:none"
+             style="fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:0.93749998;stroke-dasharray:none"
              inkscape:export-xdpi="90"
              inkscape:export-ydpi="90" />
           <rect
-             style="fill:#fcfcfc;fill-opacity:1;stroke:none"
+             style="fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:0.93749998;stroke-dasharray:none"
              id="rect5446"
              width="20"
              height="2.7090182"
@@ -674,11 +663,11 @@
              height="2.7090182"
              width="20"
              id="rect5442-0"
-             style="fill:#fcfcfc;fill-opacity:1;stroke:none"
+             style="fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:0.93749998;stroke-dasharray:none"
              inkscape:export-xdpi="90"
              inkscape:export-ydpi="90" />
           <rect
-             style="fill:#5e81ac;fill-opacity:1;stroke:#5e81ac;stroke-opacity:1"
+             style="fill:#5e81ac;fill-opacity:1;stroke:#5e81ac;stroke-opacity:1;stroke-width:0.93749998;stroke-dasharray:none"
              id="rect5446-4"
              width="20"
              height="2.7090182"
@@ -706,7 +695,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="path5627-3-3"
-       style="opacity:0.9;fill:none;stroke:#5e81ac;stroke-width:1.01958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.9;fill:none;stroke:#5e81ac;stroke-width:0.93749998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        cx="110"
        cy="110" />
   </g>
@@ -745,12 +734,12 @@
        d="m -36.040659,105.13622 h 17.782256 v 118.12499 h -17.782256 z"
        id="path25" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke-width:2.4696"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.93749998;stroke-dasharray:none"
        d="m -25.678684,111.43286 -0.02708,74.41262 c 0,0 -0.09549,1.79557 -1.560155,1.79557 -1.464655,0 -1.494176,-1.79704 -1.494176,-1.79704 l 0.02708,-74.41262 z"
        id="path27"
        class="ColorScheme-Text" />
     <circle
-       style="fill:#6085ba;fill-opacity:1;stroke-width:2.54032"
+       style="fill:#6085ba;fill-opacity:1;stroke-width:0.93749998;stroke-dasharray:none"
        cx="112.29621"
        cy="-33.760387"
        r="4.6614914"
@@ -770,7 +759,7 @@
        id="path34"
        class="ColorScheme-Highlight" />
     <path
-       style="fill:#6085ba;fill-opacity:1;stroke-width:2.40709"
+       style="fill:#6085ba;fill-opacity:1;stroke-width:0.93749998;stroke-dasharray:none"
        d="m -8.3003357,113.0921 -0.0012,85.35155 c 0,0 0.080325,1.01803 -1.0682741,1.01803 -1.1485962,0 -1.1317712,-1.0195 -1.1317712,-1.0195 l -0.0012,-85.35146 z"
        id="path36"
        sodipodi:nodetypes="ccsccc"
@@ -784,7 +773,7 @@
        d="m 39.5,39.499996 h 7 V 86 h -7 z"
        id="path39" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.849726"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.36904765;stroke-dasharray:none"
        d="m 41.951506,62.448878 c 0,0 -0.07224,1.751122 0.7839,1.751122 0.856002,0 0.761503,-1.751122 0.761503,-1.751122 V 42 h -1.545403 z"
        id="path41"
        sodipodi:nodetypes="cscccc"
