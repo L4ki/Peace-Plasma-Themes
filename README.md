@@ -339,5 +339,5 @@ Changelog: 29.10.2022.
 Plasma Theme "Peace-Plasma"
 --------------------------
 
-Added widget: clock.svg
+Update widget: clock.svg
 
