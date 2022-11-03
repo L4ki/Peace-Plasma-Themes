@@ -341,3 +341,11 @@ Plasma Theme "Peace-Plasma"
 
 Update widget: clock.svg
 
+Changelog: 03.11.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update icon: software.svg
+
