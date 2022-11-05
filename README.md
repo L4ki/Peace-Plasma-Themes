@@ -349,3 +349,11 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update icon: software.svg
 
+Changelog: 05.11.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Added icon: tools.svg
+
