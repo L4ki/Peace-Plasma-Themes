@@ -357,3 +357,12 @@ Plasma Theme "Peace-Plasma"
 
 Added icon: tools.svg
 
+
+Changelog: 10.11.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: tools.svg
+
