@@ -374,3 +374,12 @@ Plasma Theme "Peace-Plasma"
 
 Added icon: nulloy.svg
 
+
+Changelog: 17.11.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: face.svg
+
