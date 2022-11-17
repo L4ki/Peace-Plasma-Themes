@@ -13,9 +13,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <style
-     id="style1633">
-.ColorScheme-Text { 
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
     color:#eff0f1;
 }
 .ColorScheme-Highlight { color:#cdd8e5; }
