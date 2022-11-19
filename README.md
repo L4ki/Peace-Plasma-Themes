@@ -383,7 +383,7 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added icon: face.svg
 
-Changelog: 12.11.2022.
+Changelog: 19.11.2022.
 ----------------------
 
 Plasma Theme "Peace-Plasma"
