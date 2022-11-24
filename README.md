@@ -393,3 +393,12 @@ Added icon: face.svg
 
 Update icon: nulloy.svg
 
+
+Changelog: 24.11.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: utilities.svg
+
