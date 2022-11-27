@@ -402,3 +402,12 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added icon: utilities.svg
 
+Changelog: 27.11.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Update widgets: radiobutton, notes
+
+
