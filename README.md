@@ -411,3 +411,12 @@ Plasma Theme "Peace-Plasma"
 Update widgets: radiobutton, notes
 
 
+Changelog: 01.12.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added widget: translucentbackground.svg
+
+
