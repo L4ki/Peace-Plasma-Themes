@@ -419,4 +419,11 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added widget: translucentbackground.svg
 
+Window Decorations
+------------------
+
+Update: decoration.svg
+
+
+
 
