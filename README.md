@@ -424,6 +424,14 @@ Window Decorations
 
 Update: decoration.svg
 
+Changelog: 04.12.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Added icon: mellowplayer.svg
+
 
 
 
