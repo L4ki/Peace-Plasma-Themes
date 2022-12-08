@@ -432,6 +432,14 @@ Plasma Theme "Peace-Plasma"
 
 Added icon: mellowplayer.svg
 
+Changelog: 08.12.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: jami.svg
+
 
 
 
