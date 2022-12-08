@@ -440,6 +440,11 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added icon: jami.svg
 
+GTK Theme
+----------
+
+Update: checkbox-checked-hover.png
+
 
 
 
