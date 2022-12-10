@@ -445,6 +445,14 @@ GTK Theme
 
 Update: checkbox-checked-hover.png
 
+Changelog: 11.12.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Added icon: jami.svg
+
 
 
 
