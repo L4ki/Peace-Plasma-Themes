@@ -453,6 +453,14 @@ Plasma Theme "Peace-Plasma"
 
 Added icon: jami.svg
 
+Changelog: 16.12.2022.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: knotes.svg
+
 
 
 
