@@ -461,6 +461,14 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added icon: knotes.svg
 
+Changelog: 18.12.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Added icon: knotes.svg
+
 
 
 
