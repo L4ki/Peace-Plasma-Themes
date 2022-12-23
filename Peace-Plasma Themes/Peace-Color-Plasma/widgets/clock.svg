@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    width="234.66667"
    height="234.66667"
    sodipodi:docname="clock.svg"
@@ -26,7 +26,7 @@
 .ColorScheme-Highlight { color:#5e81ac; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="1000"
+     inkscape:window-height="1002"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -37,9 +37,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="37.299882"
-     inkscape:cy="123.21335"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="56.922094"
+     inkscape:cy="93.338093"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -381,8 +381,9 @@
         <path
            id="path4451"
            d="m 48.5782,230.1816 -0.8125,0.5625 2.4687,3.40625 c 0.2689,-0.19888 0.5412,-0.398 0.8126,-0.59375 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4449"
            d="m 152.07817,230.1816 -2.375,3.28125 c 0.2668,0.19173 0.5481,0.36775 0.8125,0.5625 l 2.375,-3.28125 z"
@@ -392,8 +393,9 @@
         <path
            id="path4447"
            d="m 41.3282,235.9941 -0.7188,0.65625 2.7813,3.09375 c 0.2398,-0.21947 0.5076,-0.40827 0.75,-0.625 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4445"
            d="m 159.32817,235.9941 -2.7188,3 c 0.2483,0.22104 0.5045,0.43234 0.75,0.65625 l 2.7188,-3 z"
@@ -403,8 +405,9 @@
         <path
            id="path4443"
            d="m 34.7344,242.52535 -0.6562,0.75 3.125,2.8125 c 0.2192,-0.24732 0.4342,-0.50529 0.6562,-0.75 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4441"
            d="m 165.92197,242.52535 -3,2.6875 c 0.2326,0.25546 0.4579,0.52294 0.6874,0.78125 l 3,-2.71875 z"
@@ -414,8 +417,9 @@
         <path
            id="path4439"
            d="m 28.8594,249.71285 -0.5937,0.78125 3.4375,2.5 c 0.1922,-0.26833 0.3673,-0.54652 0.5625,-0.8125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4437"
            d="m 171.79697,249.71285 -3.25,2.375 c 0.1905,0.25885 0.3748,0.52016 0.5624,0.78125 l 3.2813,-2.375 z"
@@ -436,8 +440,9 @@
         <path
            id="path4431"
            d="m 19.4844,265.71285 -0.4062,0.90625 3.875,1.71875 c 0.1333,-0.30532 0.2695,-0.60282 0.4062,-0.90625 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4429"
            d="m 181.17197,265.71285 -3.6876,1.625 c 0.1363,0.3014 0.2735,0.60298 0.4063,0.90625 l 3.6875,-1.625 z"
@@ -447,8 +452,9 @@
         <path
            id="path4427"
            d="m 16.1094,274.3691 -0.3124,0.9375 4.0624,1.3125 c 0.098,-0.30841 0.1804,-0.63063 0.2813,-0.9375 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4425"
            d="m 184.54697,274.3691 -3.8438,1.25 c 0.1021,0.30968 0.2139,0.62625 0.3125,0.9375 l 3.8437,-1.25 z"
@@ -458,8 +464,9 @@
         <path
            id="path4423"
            d="m 13.6407,283.33785 -0.1875,0.96875 4.1562,0.875 c 0.066,-0.32409 0.1492,-0.64602 0.2188,-0.96875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4421"
            d="m 186.98437,283.33785 -3.9374,0.84375 c 0.069,0.32066 0.1218,0.64674 0.1874,0.96875 l 3.9688,-0.84375 z"
@@ -469,8 +476,9 @@
         <path
            id="path4419"
            d="m 12.172,292.4941 -0.125,0.96875 4.2812,0.4375 c 0.031,-0.32197 0.059,-0.64784 0.094,-0.96875 l -4.25,-0.4375 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4417"
            d="m 188.51567,292.4941 -4.0625,0.4375 c 0.035,0.32091 0.063,0.64678 0.094,0.96875 l 4.0624,-0.4375 -0.094,-0.96875 z"
@@ -480,8 +488,9 @@
         <path
            id="path4415"
            d="m 16.3594,310.58785 -4.3124,0.4375 0.125,1 4.2812,-0.4375 c -0.037,-0.33266 -0.061,-0.66618 -0.094,-1 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4413"
            d="m 184.51567,310.58785 c -0.033,0.33382 -0.057,0.66734 -0.094,1 l 4.0937,0.4375 0.094,-1 z"
@@ -491,8 +500,9 @@
         <path
            id="path4411"
            d="m 17.672,319.3066 -4.2188,0.90625 0.1875,0.96875 4.25,-0.90625 c -0.071,-0.32234 -0.1519,-0.64505 -0.2187,-0.96875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4409"
            d="m 183.20317,319.3691 c -0.067,0.32362 -0.148,0.6465 -0.2188,0.96875 l 4,0.84375 0.2188,-0.96875 z"
@@ -502,23 +512,27 @@
         <path
            id="path4407"
            d="m 19.922,327.83785 -4.125,1.34375 0.3124,0.96875 4.125,-1.34375 c -0.1075,-0.32327 -0.2087,-0.64375 -0.3124,-0.96875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4405"
            d="m 180.92197,327.90035 c -0.1041,0.32488 -0.2047,0.64559 -0.3126,0.96875 l 3.9376,1.28125 0.3124,-0.96875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4403"
            d="m 23.047,336.1191 -3.9688,1.78125 0.4062,0.90625 3.9688,-1.78125 c -0.1376,-0.30308 -0.2721,-0.60127 -0.4062,-0.90625 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4401"
            d="m 177.79697,336.2128 c -0.1339,0.30333 -0.269,0.60481 -0.4063,0.90625 l 3.7813,1.6875 0.4062,-0.90625 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4399"
            d="m 27.047,343.99405 -3.8126,2.1875 0.5,0.875 3.8126,-2.1875 c -0.1699,-0.28898 -0.3335,-0.58384 -0.5,-0.875 z"
@@ -532,43 +546,51 @@
         <path
            id="path4395"
            d="m 31.797,351.4315 -3.5313,2.5625 0.5937,0.8125 3.5313,-2.5625 c -0.1995,-0.27029 -0.3974,-0.53977 -0.5937,-0.8125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4393"
            d="m 168.98437,351.5252 c -0.1931,0.26753 -0.3662,0.54733 -0.5624,0.8125 l 3.375,2.46875 0.5937,-0.8125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4391"
            d="m 37.3594,358.30645 -3.2812,2.9375 0.6562,0.75 3.2813,-2.9375 c -0.2242,-0.24569 -0.4349,-0.50167 -0.6563,-0.75 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4389"
            d="m 163.45317,358.40015 c -0.2264,0.25327 -0.4581,0.49949 -0.6875,0.75 l 3.1563,2.84375 0.6874,-0.75 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4387"
            d="m 43.5157,364.58765 -2.9063,3.25 0.7188,0.6875 2.9375,-3.28125 c -0.2482,-0.22104 -0.5044,-0.43234 -0.75,-0.65625 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4385"
            d="m 157.23437,364.68135 c -0.251,0.22809 -0.4961,0.46241 -0.75,0.6875 l 2.8438,3.15625 0.75,-0.6875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4383"
            d="m 50.3282,370.18135 -2.5625,3.53125 0.8125,0.59375 2.5625,-3.53125 c -0.2716,-0.19534 -0.5433,-0.39528 -0.8125,-0.59375 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4381"
            d="m 150.39067,370.27505 c -0.2696,0.19791 -0.5404,0.39898 -0.8125,0.59375 l 2.5,3.4375 0.8125,-0.59375 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4379"
            d="m 57.7344,375.0563 -2.1874,3.78125 0.8437,0.5 2.1875,-3.8125 c -0.28,-0.15998 -0.5658,-0.30567 -0.8438,-0.46875 z"
@@ -582,48 +604,57 @@
         <path
            id="path4374"
            d="m 65.547,379.1188 -1.75,3.96875 0.9062,0.40625 1.7812,-3.96875 c -0.3132,-0.13766 -0.6262,-0.26491 -0.9374,-0.40625 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4372"
            d="m 135.17197,379.2125 c -0.3079,0.13886 -0.6278,0.27098 -0.9376,0.40625 l 1.7188,3.875 0.9375,-0.40625 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4370"
            d="m 73.797,382.3375 -1.3438,4.15625 0.9375,0.3125 1.3437,-4.15625 c -0.3141,-0.10014 -0.625,-0.2088 -0.9374,-0.3125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4368"
            d="m 126.89067,382.4 c -0.3222,0.10608 -0.6448,0.2102 -0.9687,0.3125 l 1.3437,4.09375 0.9687,-0.3125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4366"
            d="m 82.29697,384.65 -0.90627,4.25 0.99997,0.21875 0.9063,-4.25 c -0.3338,-0.0688 -0.6678,-0.14601 -1,-0.21875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4364"
            d="m 118.35937,384.7125 c -0.3265,0.0705 -0.6408,0.15204 -0.9687,0.21875 l 0.9063,4.1875 0.9687,-0.21875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4362"
            d="m 91.04697,386.0875 -0.4688,4.34375 1,0.0937 0.4375,-4.3125 c -0.3249,-0.0321 -0.6449,-0.0892 -0.9687,-0.125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path5480"
            d="m 109.64067,386.1188 c -0.323,0.035 -0.6447,0.0624 -0.9687,0.0937 l 0.4374,4.3125 0.9688,-0.0937 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4374-2"
            d="m 65.547,225.2625 -1.75,-3.96875 0.9062,-0.40625 1.7812,3.96875 c -0.3132,0.13766 -0.6262,0.26491 -0.9374,0.40625 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4372-4"
            d="m 135.17197,225.1688 c -0.3079,-0.13886 -0.6278,-0.27098 -0.9376,-0.40625 l 1.7188,-3.875 0.9375,0.40625 z"
@@ -633,8 +664,9 @@
         <path
            id="path4370-8"
            d="m 73.797,222.0438 -1.3438,-4.15625 0.9375,-0.3125 1.3437,4.15625 c -0.3141,0.10014 -0.625,0.2088 -0.9374,0.3125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4368-0"
            d="m 126.89067,221.9813 c -0.3222,-0.10608 -0.6448,-0.2102 -0.9687,-0.3125 l 1.3437,-4.09375 0.9687,0.3125 z"
@@ -644,8 +676,9 @@
         <path
            id="path4366-8"
            d="m 82.29697,219.7313 -0.90627,-4.25 0.99997,-0.21875 0.9063,4.25 c -0.3338,0.0688 -0.6678,0.14601 -1,0.21875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path4364-7"
            d="m 118.35937,219.6688 c -0.3265,-0.0705 -0.6408,-0.15204 -0.9687,-0.21875 l 0.9063,-4.1875 0.9687,0.21875 z"
@@ -655,8 +688,9 @@
         <path
            id="path4362-5"
            d="m 91.04697,218.2938 -0.4688,-4.34375 1,-0.0937 0.4375,4.3125 c -0.3249,0.0321 -0.6449,0.0892 -0.9687,0.125 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+           style="enable-background:accumulate;marker:none;stroke-width:1px;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.6;visibility:visible;overflow:visible;display:inline;text-anchor:start;baseline-shift:baseline;direction:ltr;writing-mode:lr-tb;text-transform:none;word-spacing:normal;letter-spacing:normal;text-decoration-line:none;text-decoration:none;text-align:start;text-indent:0;-inkscape-font-specification:Sans;font-family:Sans;line-height:normal;font-size:medium;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal;"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
         <path
            id="path5480-8"
            d="m 109.64067,218.2625 c -0.323,-0.035 -0.6447,-0.0624 -0.9687,-0.0937 l 0.4374,-4.3125 0.9688,0.0937 z"
@@ -708,7 +742,7 @@
              inkscape:export-ydpi="90"
              class="ColorScheme-Text" />
           <rect
-             style="stroke-opacity:1;stroke:#5e81ac;fill-opacity:1;fill:currentColor;"
+             style="stroke-opacity:1;stroke:currentColor;fill-opacity:1;fill:currentColor;"
              id="rect5446-4"
              width="20"
              height="2.7090182"
@@ -724,10 +758,11 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="path5627"
-       style="opacity:0.7;fill:none;stroke:#5e81ac;stroke-width:1.02003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke-opacity:1;stroke-dasharray:none;stroke-miterlimit:4;stroke-width:1.02003;stroke:currentColor;fill:none;opacity:0.7;"
        cx="110"
        cy="110"
-       r="97.48999" />
+       r="97.48999"
+       class="ColorScheme-Highlight" />
     <g
        transform="translate(10.000028,9.9999919)"
        id="text4376"
@@ -737,7 +772,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="path5627-3-3"
-       style="opacity:0.9;fill:none;stroke:#5e81ac;stroke-width:1.01958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke-opacity:1;stroke-dasharray:none;stroke-miterlimit:4;stroke-width:1.01958;stroke:currentColor;fill:none;opacity:0.9;"
        cx="110"
        cy="110"
        class="ColorScheme-Highlight" />
