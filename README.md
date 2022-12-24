@@ -477,6 +477,11 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update widget: clock.svg
 
+GTK Theme
+----------
+
+Update: gtk-2.0 gtkrc
+
 
 
 
