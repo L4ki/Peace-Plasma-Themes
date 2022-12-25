@@ -482,6 +482,14 @@ GTK Theme
 
 Update: gtk-2.0 gtkrc
 
+Changelog: 25.12.2022.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------
+
+Added icon: audacious.svg
+
 
 
 
