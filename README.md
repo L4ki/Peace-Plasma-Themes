@@ -1,15 +1,17 @@
 # Peace-Plasma-Themes and Peace-Color-Plasma Themes
 Peace Themes For Plasma Desktop 
 
-Download:
----------
+"Peace-Plasma" Download:
+------------------------
 
 https://www.pling.com/p/1770349
 
+"Peace-Color-Plasma" Download:
+------------------------------
+
 https://www.pling.com/p/1873556
 
-"Peace-Plasma" and "Peace-Color-Plasma"
----------------------------------------
+
 
 <html>
   <head>
