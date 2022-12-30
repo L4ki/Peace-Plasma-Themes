@@ -1,10 +1,38 @@
 # Peace-Plasma-Themes and Peace-Color-Plasma Themes
 Peace Themes For Plasma Desktop 
 
+Download:
+---------
+
 https://www.pling.com/p/1770349
 
+"Peace-Plasma" and "Peace-Color-Plasma"
+---------------------------------------
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Donate</h2>
+    <h2>If you like my project, you can donate at:</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="PayPal.png" alt="PayPal" />
+    </a>
+  </body>
+</html>
+
+
+Screenshots:
+-------------
 
 ![Screenshot_20220418_115743](https://user-images.githubusercontent.com/45247573/164518134-a4b96742-5327-4813-b713-d8975d0263e3.jpg)
+
+![Screenshot_20220729_175646](https://user-images.githubusercontent.com/45247573/210087137-a0fbbf4b-47cc-431c-912a-49c8c3a8c374.jpg)
+
+![Screenshot_20220803_224534](https://user-images.githubusercontent.com/45247573/210087196-295369a3-d7b7-48e0-97bb-5c39802b833c.png)
+
+![Screenshot_20220803_230743](https://user-images.githubusercontent.com/45247573/210087202-911f689c-0f86-4e0d-9185-2f2d25ed3db4.png)
 
 ![Screenshot_20220418_120053](https://user-images.githubusercontent.com/45247573/164518317-37580d9f-779f-4e7f-aeef-025af8c1b7ca.png)
 
