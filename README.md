@@ -526,7 +526,7 @@ Changelog: 25.12.2022.
 Plasma Theme "Peace-Plasma"
 --------------------------
 
-Added icon: audacious.svg
+Update widget: clock.svg
 
 
 Changelog: 30.12.2022.
