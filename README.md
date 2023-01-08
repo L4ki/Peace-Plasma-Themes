@@ -538,5 +538,14 @@ Plasma Theme "Peace-Color-Plasma"
 Added icon: audacious.svg
 
 
+Changelog: 08.01.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  widget: frame.svg
+
+
 
 
