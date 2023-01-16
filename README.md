@@ -546,6 +546,14 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added  widget: frame.svg
 
+Changelog: 16.01.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  icon: internet.svg
+
 
 
 
