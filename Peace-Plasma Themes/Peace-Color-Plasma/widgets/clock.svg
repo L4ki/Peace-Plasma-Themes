@@ -26,7 +26,7 @@
 .ColorScheme-Highlight { color:#5e81ac; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="1002"
+     inkscape:window-height="1004"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -38,8 +38,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="1.4142136"
-     inkscape:cx="56.922094"
-     inkscape:cy="93.338093"
+     inkscape:cx="108.89444"
+     inkscape:cy="179.95867"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -799,7 +799,8 @@
      cy="110"
      r="97" />
   <g
-     id="MinuteHand">
+     id="MinuteHand"
+     transform="translate(274.13539,-3.6377)">
     <circle
        style="opacity:0.00100002;fill:#232629;fill-opacity:0.00392157;stroke:none"
        id="HandCenterScrew"
@@ -812,12 +813,12 @@
        d="m -36.040659,105.13622 h 17.782256 v 118.12499 h -17.782256 z"
        id="path25" />
     <path
-       style="stroke-width:2.4696;fill-opacity:1;fill:currentColor;"
+       style="fill:currentColor;fill-opacity:1;stroke-width:2.4696"
        d="m -25.678684,111.43286 -0.02708,74.41262 c 0,0 -0.09549,1.79557 -1.560155,1.79557 -1.464655,0 -1.494176,-1.79704 -1.494176,-1.79704 l 0.02708,-74.41262 z"
        id="path27"
        class="ColorScheme-Text" />
     <circle
-       style="stroke-width:2.54032;fill-opacity:1;fill:currentColor;"
+       style="fill:currentColor;fill-opacity:1;stroke-width:2.54032"
        cx="112.29621"
        cy="-33.760387"
        r="4.6614914"
@@ -826,18 +827,19 @@
        class="ColorScheme-Highlight " />
   </g>
   <g
-     id="SecondHand">
+     id="SecondHand"
+     transform="translate(274.13539,-3.6377)">
     <path
        style="opacity:0.00100002;stroke-width:2.54032"
        d="M -18.258399,105.13622 H -0.47614305 V 223.26121 H -18.258399 Z"
        id="path32" />
     <path
-       style="stroke-width:2.54032;fill-opacity:1;fill:currentColor;"
+       style="fill:currentColor;fill-opacity:1;stroke-width:2.54032"
        d="m -10.679358,116.66396 c -1.175483,-0.67979 -1.577337,-2.18381 -0.897546,-3.35931 0.67979,-1.17552 2.1838131,-1.57737 3.3593218,-0.89757 1.1755087,0.6798 1.5773623,2.18382 0.8975467,3.35934 -0.6797903,1.17549 -2.1838135,1.57734 -3.3593225,0.89754 z"
        id="path34"
        class="ColorScheme-Highlight " />
     <path
-       style="stroke-width:2.40709;fill-opacity:1;fill:currentColor;"
+       style="fill:currentColor;fill-opacity:1;stroke-width:2.40709"
        d="m -8.3003357,113.0921 -0.0012,85.35155 c 0,0 0.080325,1.01803 -1.0682741,1.01803 -1.1485962,0 -1.1317712,-1.0195 -1.1317712,-1.0195 l -0.0012,-85.35146 z"
        id="path36"
        sodipodi:nodetypes="ccsccc"
@@ -845,13 +847,13 @@
   </g>
   <g
      id="HourHand"
-     transform="matrix(2.5403223,0,0,2.5403223,-154.16563,4.7934921)">
+     transform="matrix(2.5403223,0,0,2.5403223,119.96976,1.1557921)">
     <path
        style="opacity:0.00100002"
        d="m 39.5,39.499996 h 7 V 86 h -7 z"
        id="path39" />
     <path
-       style="stroke-width:0.849726;fill-opacity:1;fill:currentColor;opacity:1;"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.849726"
        d="m 41.951506,62.448878 c 0,0 -0.07224,1.751122 0.7839,1.751122 0.856002,0 0.761503,-1.751122 0.761503,-1.751122 V 42 h -1.545403 z"
        id="path41"
        sodipodi:nodetypes="cscccc"
