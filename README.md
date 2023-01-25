@@ -560,6 +560,8 @@ Changelog: 25.01.2023.
 Plasma Theme "Peace-Color-Plasma"
 --------------------------------
 
+Update widget: clock.svg
+
 Added  icon: cadence.svg
 
 
