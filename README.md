@@ -554,6 +554,14 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added  icon: internet.svg
 
+Changelog: 25.01.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  icon: cadence.svg
+
 
 
 
