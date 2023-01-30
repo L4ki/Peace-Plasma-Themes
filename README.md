@@ -564,6 +564,21 @@ Update widget: clock.svg
 
 Added  icon: cadence.svg
 
+Changelog: 30.01.2023.
+----------------------
+
+Plasma Theme "Peace-Plasma"
+--------------------------------
+
+Added icon: cadence.svg
+
+Update widget: clock.svg
+
+GTK Theme
+----------
+
+Update icon: checkbox-checked.png
+
 
 
 
