@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1000"
+     inkscape:window-height="1004"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -31,13 +31,13 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="118.79394"
-     inkscape:cy="124.80434"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="203.37499"
+     inkscape:cy="153.625"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
-     showgrid="false"
+     showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -721,7 +721,8 @@
      cy="110"
      r="97" />
   <g
-     id="MinuteHand">
+     id="MinuteHand"
+     transform="translate(274.13539,-3.7499946)">
     <circle
        style="opacity:0.00100002;fill:#232629;fill-opacity:0.00392157;stroke:none"
        id="HandCenterScrew"
@@ -734,12 +735,12 @@
        d="m -36.040659,105.13622 h 17.782256 v 118.12499 h -17.782256 z"
        id="path25" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.93749998;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.9375;stroke-dasharray:none"
        d="m -25.678684,111.43286 -0.02708,74.41262 c 0,0 -0.09549,1.79557 -1.560155,1.79557 -1.464655,0 -1.494176,-1.79704 -1.494176,-1.79704 l 0.02708,-74.41262 z"
        id="path27"
        class="ColorScheme-Text" />
     <circle
-       style="fill:#6085ba;fill-opacity:1;stroke-width:0.93749998;stroke-dasharray:none"
+       style="fill:#6085ba;fill-opacity:1;stroke-width:0.9375;stroke-dasharray:none"
        cx="112.29621"
        cy="-33.760387"
        r="4.6614914"
@@ -748,7 +749,8 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="SecondHand">
+     id="SecondHand"
+     transform="translate(274.13539,-3.7499946)">
     <path
        style="opacity:0.00100002;stroke-width:2.54032"
        d="M -18.258399,105.13622 H -0.47614305 V 223.26121 H -18.258399 Z"
@@ -759,7 +761,7 @@
        id="path34"
        class="ColorScheme-Highlight" />
     <path
-       style="fill:#6085ba;fill-opacity:1;stroke-width:0.93749998;stroke-dasharray:none"
+       style="fill:#6085ba;fill-opacity:1;stroke-width:0.9375;stroke-dasharray:none"
        d="m -8.3003357,113.0921 -0.0012,85.35155 c 0,0 0.080325,1.01803 -1.0682741,1.01803 -1.1485962,0 -1.1317712,-1.0195 -1.1317712,-1.0195 l -0.0012,-85.35146 z"
        id="path36"
        sodipodi:nodetypes="ccsccc"
@@ -767,13 +769,13 @@
   </g>
   <g
      id="HourHand"
-     transform="matrix(2.5403223,0,0,2.5403223,-154.16563,4.7934921)">
+     transform="matrix(2.5403223,0,0,2.5403223,119.96976,1.0434974)">
     <path
        style="opacity:0.00100002"
        d="m 39.5,39.499996 h 7 V 86 h -7 z"
        id="path39" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.36904765;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.369048;stroke-dasharray:none"
        d="m 41.951506,62.448878 c 0,0 -0.07224,1.751122 0.7839,1.751122 0.856002,0 0.761503,-1.751122 0.761503,-1.751122 V 42 h -1.545403 z"
        id="path41"
        sodipodi:nodetypes="cscccc"
