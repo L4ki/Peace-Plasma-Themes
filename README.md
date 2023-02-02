@@ -579,6 +579,14 @@ GTK Theme
 
 Update icon: checkbox-checked.png
 
+Changelog: 02.02.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  icons: onboard.svg, offline.svg
+
 
 
 
