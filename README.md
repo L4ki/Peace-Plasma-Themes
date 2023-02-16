@@ -596,6 +596,14 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added  icons: qbittorrent.svg, zoom.svg
 
+Changelog: 16.02.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  icon: opffice.svg
+
 
 
 
