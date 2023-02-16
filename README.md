@@ -602,7 +602,7 @@ Changelog: 16.02.2023.
 Plasma Theme "Peace-Color-Plasma"
 --------------------------------
 
-Added  icon: opffice.svg
+Added  icon: office.svg
 
 
 
