@@ -604,7 +604,7 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added  icon: office.svg
 
-Changelog: 23.02.2023.
+Changelog: 07.03.2023.
 ----------------------
 
 Plasma Theme "Peace-Color-Plasma"
