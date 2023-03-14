@@ -612,6 +612,15 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added  icon: ring.svg
 
+Changelog: 14.03.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  icon: antimicro.svg
+
+
 
 
 
