@@ -620,6 +620,14 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added  icon: antimicro.svg
 
+Changelog: 17.03.2023.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
+
 
 
 
