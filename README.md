@@ -628,6 +628,14 @@ Aurorae Themes
 
 Update: Auroraerc
 
+Changelog: 21.03.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update  icon: office.svg
+
 
 
 
