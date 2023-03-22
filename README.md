@@ -628,7 +628,7 @@ Aurorae Themes
 
 Update: Auroraerc
 
-Changelog: 21.03.2023.
+Changelog: 22.03.2023.
 ----------------------
 
 Plasma Theme "Peace-Color-Plasma"
