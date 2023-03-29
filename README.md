@@ -636,6 +636,14 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update  icon: office.svg
 
+Changelog: 29.03.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  icon: jami.svg
+
 
 
 
