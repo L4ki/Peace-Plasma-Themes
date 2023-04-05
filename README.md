@@ -644,6 +644,19 @@ Plasma Theme "Peace-Color-Plasma"
 
 Added  icon: jami.svg
 
+Changelog: 05.04.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  icon: quota.svg
+
+GTK Theme
+---------
+
+Update: tab-horz-gap.png, tab-vert-gap.png
+
 
 
 
