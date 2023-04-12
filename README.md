@@ -657,6 +657,14 @@ GTK Theme
 
 Update: tab-horz-gap.png, tab-vert-gap.png
 
+Changelog: 12.04.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added  icon: kdf.svg
+
 
 
 
