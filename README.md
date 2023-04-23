@@ -671,7 +671,7 @@ Changelog: 23.04.2023.
 Plasma Theme "Peace-Color-Plasma"
 --------------------------------
 
-Update widget: viewitem.sv
+Update widget: viewitem.svg
 
 
 
