@@ -681,6 +681,11 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update icon: network.svg
 
+GTK Theme
+---------
+
+Update: gtk-2.0
+
 
 
 
