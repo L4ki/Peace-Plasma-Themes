@@ -6,7 +6,7 @@
    version="1.1"
    id="svg4153"
    sodipodi:docname="network.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,9 +29,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="164.75588"
-     inkscape:cy="-77.781744"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="89.802559"
+     inkscape:cy="16.970562"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3907,7 +3907,7 @@
        class="st0  ColorScheme-Highlight"
        d="m 18,3 h 1 v 10.285714 c 0,1.257143 -0.9,2.488487 -2,2.488487 H 3 v -2.488487 h 15 z m -3.5,16 -1.560358,-0.06968 v 0 0 z"
        sodipodi:nodetypes="ccssccccccccc"
-       style="fill:currentColor;fill-opacity:1;stroke-width:0.267262;enable-background:new" />
+       style="enable-background:new;stroke-width:0.267262;fill-opacity:1;fill:currentColor;" />
     <path
        id="Computer-s"
        class="st1  ColorScheme-Text"
@@ -3946,7 +3946,7 @@
        class="st0  ColorScheme-Highlight"
        d="m 18,3 h 1 v 10.285714 c 0,1.257143 -0.9,2.488487 -2,2.488487 H 3 v -2.488487 h 15 z m -3.5,15.999997 -1.560358,-0.0697 v 0 0 z"
        sodipodi:nodetypes="ccssccccccccc"
-       style="fill:currentColor;fill-opacity:1;stroke-width:0.267262;enable-background:new" />
+       style="enable-background:new;stroke-width:0.267262;fill-opacity:1;fill:currentColor;" />
     <path
        id="Computer-s-6-0"
        class="st1  ColorScheme-Text"
@@ -3980,7 +3980,7 @@
        class="st0  ColorScheme-Highlight"
        d="m 18,3 h 1 v 10.285715 c 0,1.257142 -0.9,2.488486 -2,2.488486 H 3 v -2.488486 h 15 z m -3.5,16 -1.560358,-0.06968 v 0 0 z"
        sodipodi:nodetypes="ccssccccccccc"
-       style="fill:currentColor;fill-opacity:1;stroke-width:0.267262;enable-background:new" />
+       style="enable-background:new;stroke-width:0.267262;fill-opacity:1;fill:currentColor;" />
     <path
        id="Computer-s-6"
        class="st1  ColorScheme-Text"
@@ -4013,7 +4013,7 @@
        class="st0  ColorScheme-Highlight"
        d="m 18,3 h 1 v 10.285715 c 0,1.257142 -0.9,2.488486 -2,2.488486 H 3 v -2.488486 h 15 z m -3.5,16 -1.56036,-0.06968 v 0 0 z"
        sodipodi:nodetypes="ccssccccccccc"
-       style="fill:currentColor;fill-opacity:1;stroke-width:0.267262;enable-background:new" />
+       style="enable-background:new;stroke-width:0.267262;fill-opacity:1;fill:currentColor;" />
     <path
        id="Computer-s-6-0-1"
        class="st1  ColorScheme-Text"
@@ -4080,7 +4080,7 @@
        class="st0  ColorScheme-Highlight"
        d="m 18,3 h 1 v 10.27749 c 0,1.256138 -0.9,2.486497 -2,2.486497 H 3 V 13.27749 h 15 z m -1,12.763987 z"
        sodipodi:nodetypes="ccssccccccccc"
-       style="fill:currentColor;fill-opacity:1;stroke-width:0.267155;enable-background:new" />
+       style="enable-background:new;stroke-width:0.267155;fill-opacity:1;fill:currentColor;" />
     <path
        id="Computer-s-2"
        class="st1  ColorScheme-Text"
