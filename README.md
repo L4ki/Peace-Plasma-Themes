@@ -673,6 +673,14 @@ Plasma Theme "Peace-Color-Plasma"
 
 Update widget: viewitem.svg
 
+Changelog: 30.04.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update icon: network.svg
+
 
 
 
