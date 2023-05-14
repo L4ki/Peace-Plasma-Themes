@@ -7,7 +7,7 @@
    viewBox="0 0 59.000003 78.000002"
    version="1.1"
    id="svg990"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="slider.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,13 +26,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="35.734146"
-     inkscape:cy="48.992398"
+     inkscape:cx="18.814091"
+     inkscape:cy="49.118667"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -44,7 +44,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:lockguides="false"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#cccccc" />
   <metadata
      id="metadata1987">
     <rdf:RDF>
