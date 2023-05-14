@@ -700,6 +700,19 @@ GTK Theme
 
 Update: focus.png
 
+Changelog: 14.05.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: slider.svg
+
+GTK Theme
+---------
+
+Update: gtk-3.0, gtk-4.0
+
 
 
 
