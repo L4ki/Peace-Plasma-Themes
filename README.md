@@ -713,6 +713,28 @@ GTK Theme
 
 Update: gtk-3.0, gtk-4.0
 
+Changelog: 21.05.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: tooltip.svg
+
+GTK Theme
+---------
+
+Update: entry.png
+
+
+Window Decorations:"Peace-Round-Color-Aurorae" and "Peace-Round-Light-Color-Aurorae"
+------------------------------------------------------------------------------------
+
+Update: decoraton.svg
+
+
+
+
 
 
 
