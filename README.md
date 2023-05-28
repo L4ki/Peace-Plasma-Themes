@@ -732,6 +732,19 @@ Window Decorations:"Peace-Round-Color-Aurorae" and "Peace-Round-Light-Color-Auro
 
 Update: decoraton.svg
 
+Changelog: 28.05.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: emblem.svg
+
+GTK Theme
+---------
+
+Update: line.png
+
 
 
 
