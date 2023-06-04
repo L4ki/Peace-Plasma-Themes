@@ -745,6 +745,19 @@ GTK Theme
 
 Update: line.png
 
+Changelog: 04.06.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: user.svg
+
+GTK Theme
+---------
+
+Update: tab-up-active.png, tab-up.png
+
 
 
 
