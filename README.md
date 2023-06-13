@@ -758,6 +758,19 @@ GTK Theme
 
 Update: tab-up-active.png, tab-up.png
 
+Changelog: 13.06.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update: metadata.desktop
+
+GTK Theme
+---------
+
+Update: gtkrc
+
 
 
 
