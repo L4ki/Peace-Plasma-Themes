@@ -771,7 +771,23 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 20.06.2023.
+----------------------
 
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: desktop.svg
+
+GTK Theme
+---------
+
+Update: tab-right-active.png, tab-leftt-active.png
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
 
 
 
