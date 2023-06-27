@@ -789,6 +789,21 @@ Aurorae Themes
 
 Update: Auroraerc
 
+Changelog: 27.06.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: lutris.svg
+
+GTK Theme
+---------
+
+Update: tab-down-active.png
+
+
+
 
 
 
