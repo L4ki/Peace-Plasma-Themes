@@ -803,6 +803,19 @@ GTK Theme
 Update: tab-down-active.png
 
 
+Changelog: 04.07.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: slider.svg
+
+GTK Theme
+---------
+
+Update: gtk-3.0
+
 
 
 
