@@ -816,6 +816,19 @@ GTK Theme
 
 Update: gtk-3.0
 
+Changelog: 11.07.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: translucentbackground.svg
+
+GTK Theme
+---------
+
+Update: tab-down.png
+
 
 
 
