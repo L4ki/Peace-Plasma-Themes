@@ -829,6 +829,19 @@ GTK Theme
 
 Update: tab-down.png
 
+Changelog: 18.07.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added widget: actionbutton.svg
+
+GTK Theme
+---------
+
+Update: bullet-symbolic.svg
+
 
 
 
