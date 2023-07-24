@@ -842,6 +842,19 @@ GTK Theme
 
 Update: bullet-symbolic.svg
 
+Changelog: 25.07.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added widget: radiobutton.svg
+
+GTK Theme
+---------
+
+Update: checkmark-symbolic.svg
+
 
 
 
