@@ -855,6 +855,19 @@ GTK Theme
 
 Update: checkmark-symbolic.svg
 
+Changelog: 01.08.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added widget: switch.svg
+
+GTK Theme
+---------
+
+Update: gtk-2.0
+
 
 
 
