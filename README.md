@@ -868,6 +868,19 @@ GTK Theme
 
 Update: gtk-2.0
 
+Changelog: 08.08.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added widget: monitor.svg
+
+GTK Theme
+---------
+
+Update: dash-symbolic.svg
+
 
 
 
