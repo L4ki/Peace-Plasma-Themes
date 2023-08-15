@@ -881,6 +881,19 @@ GTK Theme
 
 Update: dash-symbolic.svg
 
+Changelog: 15.08.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added widget: menubaritem.svg
+
+GTK Theme
+---------
+
+Update: hacks-dark.rc
+
 
 
 
