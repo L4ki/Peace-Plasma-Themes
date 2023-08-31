@@ -907,6 +907,18 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 31.08.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added widget: media-delegate.svg
+
+GTK Theme
+---------
+
+Update: tab-down-active.png
 
 
 
