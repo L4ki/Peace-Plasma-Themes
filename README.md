@@ -920,6 +920,19 @@ GTK Theme
 
 Update: tab-down-active.png
 
+Changelog: 07.09.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added: wind-arrows.svg
+
+GTK Theme
+---------
+
+Update: border.png
+
 
 
 
