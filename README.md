@@ -934,6 +934,20 @@ GTK Theme
 Update: border.png
 
 
+Changelog: 14.09.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: lineedit.svg
+
+GTK Theme
+---------
+
+Update: frame-notebook.png
+
+
 
 
 
