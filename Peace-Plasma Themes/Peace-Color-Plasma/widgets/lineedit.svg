@@ -34,13 +34,13 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="11.371065"
-     inkscape:cx="30.603993"
-     inkscape:cy="22.205483"
+     inkscape:zoom="4.0406602"
+     inkscape:cx="16.333964"
+     inkscape:cy="52.8379"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
-     showgrid="true"
+     showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-guide="false"
@@ -61,7 +61,7 @@
      inkscape:showpageshadow="false"
      inkscape:lockguides="true"
      inkscape:pagecheckerboard="false"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -72,12 +72,12 @@
        empcolor="#0099e5"
        empopacity="0.30196078"
        color="#0099e5"
-       opacity="0.14901961"
+       opacity="0.14902"
        empspacing="5"
        dotted="false"
        gridanglex="30"
        gridanglez="30"
-       visible="true" />
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
