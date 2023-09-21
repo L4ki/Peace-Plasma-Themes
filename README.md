@@ -947,6 +947,19 @@ GTK Theme
 
 Update: frame-notebook.png
 
+Changelog: 21.09.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: dropbox.svg
+
+GTK Theme
+---------
+
+Update: frame.png
+
 
 
 
