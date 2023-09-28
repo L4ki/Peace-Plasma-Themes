@@ -960,6 +960,19 @@ GTK Theme
 
 Update: frame.png
 
+Changelog: 28.09.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: action-overlays.svg
+
+GTK Theme
+---------
+
+Update: frame-inline.png
+
 
 
 
