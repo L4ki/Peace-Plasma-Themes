@@ -973,6 +973,19 @@ GTK Theme
 
 Update: frame-inline.png
 
+Changelog: 05.10.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: kup.svg
+
+GTK Theme
+---------
+
+Update: menu-border.png
+
 
 
 
