@@ -986,6 +986,19 @@ GTK Theme
 
 Update: menu-border.png
 
+Changelog: 12.10.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+update widget: arrows.svg
+
+GTK Theme
+---------
+
+Update: focus.png
+
 
 
 
