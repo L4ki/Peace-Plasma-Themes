@@ -999,6 +999,19 @@ GTK Theme
 
 Update: focus.png
 
+Changelog: 19.10.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+update widget: line.svg
+
+GTK Theme
+---------
+
+Update: handle.png
+
 
 
 
