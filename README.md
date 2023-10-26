@@ -1012,6 +1012,19 @@ GTK Theme
 
 Update: handle.png
 
+Changelog: 26.10.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: panel-background.svg
+
+GTK Theme
+---------
+
+Update: treeview-separator-ltr.png
+
 
 
 
