@@ -5,7 +5,7 @@
    viewBox="0 0 172 56"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="panel-background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,94 +17,15 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Text { color:#ffffff;    stop-color:#ffffff; }
-.ColorScheme-Background { color:#eff0f1;        stop-color:#eff0f1; }
-.ColorScheme-Highlight { color:#3daee9;        stop-color:#3daee9; }
-.ColorScheme-ViewText { color:#31363b;        stop-color:#31363b; }
-.ColorScheme-ViewBackground { color:#fcfcfc;        stop-color:#fcfcfc; }
-.ColorScheme-ViewHover { color:#93cee9;        stop-color:#93cee9; }
-.ColorScheme-ViewFocus { color:#3daee9;        stop-color:#3daee9; }
-.ColorScheme-ButtonText { color:#31363b;        stop-color:#31363b; }
-.ColorScheme-ButtonBackground { color:#eff0f1;        stop-color:#eff0f1; }
-.ColorScheme-ButtonHover { color:#93cee9;        stop-color:#93cee9; }
-.ColorScheme-ButtonFocus { color:#3daee9;        stop-color:#3daee9; }
-</style>
+     id="current-color-scheme">.ColorScheme-Text { color:#ffffff;    stop-color:#ffffff; }&#10;.ColorScheme-Background { color:#eff0f1;        stop-color:#eff0f1; }&#10;.ColorScheme-Highlight { color:#3daee9;        stop-color:#3daee9; }&#10;.ColorScheme-ViewText { color:#31363b;        stop-color:#31363b; }&#10;.ColorScheme-ViewBackground { color:#fcfcfc;        stop-color:#fcfcfc; }&#10;.ColorScheme-ViewHover { color:#93cee9;        stop-color:#93cee9; }&#10;.ColorScheme-ViewFocus { color:#3daee9;        stop-color:#3daee9; }&#10;.ColorScheme-ButtonText { color:#31363b;        stop-color:#31363b; }&#10;.ColorScheme-ButtonBackground { color:#eff0f1;        stop-color:#eff0f1; }&#10;.ColorScheme-ButtonHover { color:#93cee9;        stop-color:#93cee9; }&#10;.ColorScheme-ButtonFocus { color:#3daee9;        stop-color:#3daee9; }&#10;</style>
   <defs
      id="defs4">
     <style
        type="text/css"
-       id="style22">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style>
+       id="style22">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style>
     <style
        id="current-color-scheme-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#7B7C7E;
-      }
-      .ColorScheme-Background{
-        color:#EFF0F1;
-      }
-      .ColorScheme-Highlight{
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ViewBackground{
-        color:#FCFCFC;
-      }
-      .ColorScheme-ViewHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewFocus{
-        color:#1E92FF;
-      }
-      .ColorScheme-ButtonText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#EFF0F1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#1E92FF;
-      }
-</style>
+       type="text/css">&#10;      .ColorScheme-Text {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-Background{&#10;        color:#EFF0F1;&#10;      }&#10;      .ColorScheme-Highlight{&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-ViewBackground{&#10;        color:#FCFCFC;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#1E92FF;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-ButtonBackground{&#10;        color:#EFF0F1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#1E92FF;&#10;      }&#10;</style>
     <linearGradient
        id="linearGradient982">
       <stop
@@ -688,9 +609,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.8574987"
-     inkscape:cx="70.252778"
-     inkscape:cy="25.275446"
+     inkscape:zoom="1.9287494"
+     inkscape:cx="57.031776"
+     inkscape:cy="18.664945"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -698,7 +619,7 @@
      borderlayer="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="995"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -724,9 +645,12 @@
        empspacing="2"
        originx="0"
        originy="-91.999979"
-       visible="true"
+       visible="false"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -835,36 +759,6 @@
          id="rect7796"
          style="stroke-width:0.688175;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.8;" />
     </g>
-    <rect
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.698891"
-       id="hint-top-margin"
-       width="4.8421011"
-       height="2.4210024"
-       x="68"
-       y="832.36218" />
-    <rect
-       y="861.94116"
-       x="62.315796"
-       height="2.4210868"
-       width="4.8421011"
-       id="hint-bottom-margin"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.698903" />
-    <rect
-       y="-86.421059"
-       x="848.36218"
-       height="2.4210598"
-       width="4.8421011"
-       id="hint-right-margin"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.698898"
-       transform="rotate(90)" />
-    <rect
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.698897"
-       id="hint-left-margin"
-       width="4.8421011"
-       height="2.4210505"
-       x="843.52008"
-       y="-52"
-       transform="rotate(90)" />
     <g
        id="mask-top"
        transform="matrix(0.75657702,0,0,1.2969932,95.41973,-275.93564)"
@@ -1096,43 +990,6 @@
          sodipodi:nodetypes="ccccc"
          class="ColorScheme-Text" />
     </g>
-    <rect
-       y="955.36218"
-       x="167"
-       height="5"
-       width="5"
-       id="thick-center"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none" />
-    <rect
-       transform="rotate(90)"
-       y="-54.421051"
-       x="848.36218"
-       height="4.8421011"
-       width="4.8421011"
-       id="thick-hint-left-margin"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.988389" />
-    <rect
-       y="832.36212"
-       x="63.157898"
-       height="4.8421011"
-       width="4.8421011"
-       id="thick-hint-top-margin"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.988388" />
-    <rect
-       transform="rotate(90)"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.988389"
-       id="thick-hint-right-margin"
-       width="4.8421011"
-       height="4.8421011"
-       x="843.52008"
-       y="-86.421043" />
-    <rect
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.988394"
-       id="thick-hint-bottom-margin"
-       width="4.8421011"
-       height="4.8421011"
-       x="67.157898"
-       y="859.52008" />
     <g
        id="right"
        transform="matrix(0.99170261,0,0,0.99565627,-17.550683,0.11979942)">
@@ -1155,5 +1012,155 @@
          y="-948.48236"
          class="ColorScheme-Text" />
     </g>
+    <rect
+       style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#eff0f1"
+       id="thick-center"
+       width="32"
+       height="32"
+       x="201"
+       y="916.36218"
+       class="ColorScheme-Background" />
+    <rect
+       transform="rotate(90)"
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.1547"
+       id="thick-hint-right-margin"
+       width="4"
+       height="8"
+       x="936.36218"
+       y="-238" />
+    <rect
+       transform="rotate(90)"
+       y="-202"
+       x="936.36218"
+       height="8"
+       width="4"
+       id="thick-hint-left-margin"
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.1547" />
+    <rect
+       y="910.36218"
+       x="220"
+       height="8"
+       width="4"
+       id="thick-hint-top-margin"
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.1547" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.1547"
+       id="thick-hint-bottom-margin"
+       width="4"
+       height="8"
+       x="221"
+       y="946.36218" />
+    <rect
+       id="hint-top-margin"
+       height="4"
+       style="fill:#008080;stroke-width:0.999996"
+       width="4"
+       x="42"
+       y="795.48352" />
+    <rect
+       id="hint-bottom-margin"
+       height="4"
+       style="fill:#008080;stroke-width:0.999996"
+       width="4"
+       x="42"
+       y="835.48352" />
+    <rect
+       id="hint-top-inset"
+       height="9.9999999e-09"
+       style="fill:#008080"
+       width="4"
+       x="42"
+       y="795.48352" />
+    <rect
+       id="hint-bottom-inset"
+       height="9.9999999e-09"
+       style="fill:#008080"
+       width="4"
+       x="42"
+       y="839.48352" />
+    <rect
+       id="hint-right-margin"
+       height="4"
+       style="fill:#008080;stroke-width:0.999996"
+       width="4"
+       x="62"
+       y="815.48352" />
+    <rect
+       id="hint-left-margin"
+       height="4"
+       style="fill:#008080;stroke-width:0.999996"
+       width="4"
+       x="22"
+       y="815.48352" />
+    <rect
+       id="hint-left-inset"
+       height="4"
+       style="fill:#008080"
+       width="9.9999999e-09"
+       x="22"
+       y="815.48352" />
+    <rect
+       id="hint-right-inset"
+       height="4"
+       style="fill:#008080"
+       width="9.9999999e-09"
+       x="66"
+       y="815.48352" />
+    <rect
+       id="shadow-hint-top-margin"
+       height="10"
+       style="fill:#008080"
+       width="2"
+       x="105"
+       y="783.36218" />
+    <rect
+       id="shadow-hint-bottom-margin"
+       height="10"
+       style="fill:#008080"
+       width="2"
+       x="105"
+       y="837.36218" />
+    <rect
+       id="shadow-hint-top-inset"
+       height="10"
+       style="fill:#ff7f2a"
+       width="2"
+       x="109"
+       y="783.36218" />
+    <rect
+       id="shadow-hint-bottom-inset"
+       height="10"
+       style="fill:#ff7f2a"
+       width="2"
+       x="109"
+       y="837.36218" />
+    <rect
+       id="shadow-hint-right-margin"
+       height="2"
+       style="fill:#008080"
+       width="10"
+       x="130"
+       y="818.48352" />
+    <rect
+       id="shadow-hint-left-margin"
+       height="2"
+       style="fill:#ff7f2a"
+       width="10"
+       x="76"
+       y="814.48352" />
+    <rect
+       id="shadow-hint-right-inset"
+       height="2"
+       style="fill:#ff7f2a"
+       width="10"
+       x="130"
+       y="814.48352" />
+    <rect
+       id="shadow-hint-left-inset"
+       height="2"
+       style="fill:#008080"
+       width="10"
+       x="76"
+       y="818.48352" />
   </g>
 </svg>
