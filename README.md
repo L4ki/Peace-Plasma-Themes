@@ -1025,6 +1025,19 @@ GTK Theme
 
 Update: treeview-separator-ltr.png
 
+Changelog: 02.11.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: background.svg (dialogs)
+
+GTK Theme
+---------
+
+Update: gtkrc
+
 
 
 
