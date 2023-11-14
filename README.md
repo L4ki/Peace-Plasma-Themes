@@ -1038,6 +1038,19 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 14.11.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: transform.svg
+
+GTK Theme
+---------
+
+Update: treeview-separator-rtl.png
+
 
 
 
