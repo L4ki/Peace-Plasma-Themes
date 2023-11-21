@@ -1051,6 +1051,19 @@ GTK Theme
 
 Update: treeview-separator-rtl.png
 
+Changelog: 21.11.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Added icon: search.svg
+
+GTK Theme
+---------
+
+Update: progressbar-vert-trough.png
+
 
 
 
