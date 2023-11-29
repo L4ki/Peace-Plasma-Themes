@@ -1064,6 +1064,19 @@ GTK Theme
 
 Update: progressbar-vert-trough.png
 
+Changelog: 29.11.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: tasks.svg
+
+GTK Theme
+---------
+
+Update: progressbar-horz-trough.png
+
 
 
 
