@@ -1077,6 +1077,19 @@ GTK Theme
 
 Update: progressbar-horz-trough.png
 
+Changelog: 06.12.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: tabbar.svg
+
+GTK Theme
+---------
+
+Update: styles
+
 
 
 
