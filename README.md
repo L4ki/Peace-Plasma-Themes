@@ -1083,6 +1083,11 @@ Changelog: 06.12.2023.
 Plasma Theme "Peace-Color-Plasma"
 --------------------------------
 
+Aurorae Themes
+--------------
+
+Update: shade.svg
+
 Update widget: tabbar.svg
 
 GTK Theme
