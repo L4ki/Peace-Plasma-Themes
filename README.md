@@ -1101,7 +1101,7 @@ Changelog: 13.12.2023.
 Plasma Theme "Peace-Color-Plasma"
 --------------------------------
 
-Update widget: linrrdit.svg
+Update widget: lineedit.svg
 
 GTK Theme
 ---------
