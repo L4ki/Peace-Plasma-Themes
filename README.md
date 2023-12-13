@@ -1095,6 +1095,19 @@ GTK Theme
 
 Update: styles
 
+Changelog: 13.12.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: linrrdit.svg
+
+GTK Theme
+---------
+
+Update: assets
+
 
 
 
