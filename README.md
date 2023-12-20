@@ -1108,6 +1108,19 @@ GTK Theme
 
 Update: assets
 
+Changelog: 20.12.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: arrows.svg
+
+Aurorae Themes
+--------------
+
+Update: alldesktops.svg
+
 
 
 
