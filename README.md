@@ -1121,6 +1121,15 @@ Aurorae Themes
 
 Update: alldesktops.svg
 
+Changelog: 27.12.2023.
+----------------------
+
+Plasma Theme "Peace-Color-Plasma"
+--------------------------------
+
+Update widget: busywidget.svg
+
+
 
 
 
